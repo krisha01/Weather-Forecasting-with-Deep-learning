@@ -9,7 +9,7 @@ To run the project and load the dataset, follow the below instructions -
 
 •	Keep all the files provided and the downloaded dataset in either the current working directory, or change the working directory to any path you like in the Jupyter Notebook.
 
-•	Open ‘FinalProject’ and run it.
+•	Open ‘WeatherPrediction.ipynb’ and run it.
 
 •	You will find all the steps from importing the libraries, image  preprocessing, network architecture etc for the classification there 
 
